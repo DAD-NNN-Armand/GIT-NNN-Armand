@@ -1,0 +1,36 @@
+::before,
+::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+}
+
+.main-content {
+  padding: 3vw 5vw 5vw;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: clamp(25px, 7vw, 70px);
+  font-weight: 200;
+}
+h1 + span {
+  font-size: clamp(14px, 2vw, 20px);
+  font-weight: 200;
+}
+
+.slideshow-container {
+  margin-top: 4vw;
+  overflow: hidden;
+  min-height: 60vmin;
+  cursor: grab;
+  position: relative;
+}
+.slideshow-container:active {
+  cursor: grabbing;
+}
