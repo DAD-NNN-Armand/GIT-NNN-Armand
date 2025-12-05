@@ -23,18 +23,24 @@ body {
   background-size: 4em 4em;
   height: 100vh;
   position: relative;
-  overflow: auto;
+  /* overflow: auto; */
+  overflow: hidden; /* on gère le pan, donc on cache le débordement */
 }
 
 .card {
-  width: 100vw; /* image pleine largeur */
-  height: 100vh; /* image pleine hauteur */
+  width: 1000px;
+  /* max-width: calc(100vw);*/ /* image pleine largeur */
+  /* max-height: calc(100vh - 4rem);*/ /*image un peu plus petite*/
   object-fit: contain; /* conserve les proportions */
   background-color: aquamarine;
   border-radius: 5px;
+  padding: 2rem; /* espace intérieur si tu veux que la couleur entoure l'image */
+
   cursor: pointer;
   position: fixed;
-  box-shadow: 0 1px 1px hsl(0deg 0% 0% / 0.075),
-    0 2px 2px hsl(0deg 0% 0% / 0.075), 0 4px 4px hsl(0deg 0% 0% / 0.075),
-    0 8px 8px hsl(0deg 0% 0% / 0.075), 0 16px 16px hsl(0deg 0% 0% / 0.075);
+  box-sizing: border-box;
+  transform-origin: 0 0; /* utile pour les calculs de zoom centré sur la souris */
+  touch-action: none; /* empêche le geste tactile natif lors du drag/zoom */
+
+  transform-origin: 50% 50%;
 }

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Sketch</title>
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+
+    <script src="libraries/p5.min.js"></script>
+    <script src="libraries/p5.sound.min.js"></script>
+  </head>
+  <audio id="intro-audio" src="music/StarWarsIntro.mp3"></audio>
+  <body>
+    <div id="app">
+      <header>
+        <h1>
+          L'entreprise (2025)<br />Armand Popot<br />
+          Merci à l'enseignement de Robin Moretti
+        </h1>
+        <h2>parcourez la page à l'aide de votre souris</h2>
+        <h3>Bonne Lecture</h3>
+      </header>
+      <div class="bouton-forme">
+        <svg width="200" height="200">
+          <circle
+            cx="100"
+            cy="100"
+            r="90"
+            fill="rgb(0,0,0)"
+            fill-opacity="0.8"
+          />
+        </svg>
+        <div class="bouton-texte">Revenir au centre</div>
+      </div>
+      <div class="frame">
+        <img src="img/croquis.png" alt="BD" class="card" draggable="false" />
+      </div>
+    </div>
+  </body>
+  <script src="sketch.js"></script>
+</html>

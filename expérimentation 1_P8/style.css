@@ -1,0 +1,126 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+header {
+  pointer-events: none; /*empêche d'intéragir avec le texte */
+  position: relative; /* ← indispensable pour que z-index fonctionne */
+  z-index: 3;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 6rem;
+  -webkit-text-stroke: 3px black;
+  text-align: center;
+  transform: translate(0%, +45%);
+  animation-name: texteIntroductif;
+  animation-duration: 40s;
+  animation-delay: 1s;
+  animation-iteration-count: 1;
+  /* direction de l'animation (ici alternée) */
+  animation-direction: alternate;
+  animation-timing-function: linear; /* vitesse constante */
+
+  /* Transition de disparition */
+  opacity: 1;
+  transition: opacity 2s ease;
+}
+
+@keyframes texteIntroductif {
+  from {
+    transform: translate(0%, +45%);
+  }
+  to {
+    transform: translate(0%, -105%);
+  }
+}
+
+/* Classe activée lorsqu’on veut le faire disparaître */
+header.fade-out {
+  opacity: 0;
+}
+
+#app {
+  background-color: #000000;
+  background-image: linear-gradient(#292a30 0.1em, transparent 0.1em),
+    linear-gradient(90deg, #292a30 0.1em, transparent 0.1em);
+  background-size: 4em 4em;
+  height: 100vh;
+  position: relative;
+  /* overflow: auto; */
+  overflow: hidden; /* on gère le pan, donc on cache le débordement */
+}
+
+.card {
+  width: 1000px;
+  /* max-width: calc(100vw);*/ /* image pleine largeur */
+  /* max-height: calc(100vh - 4rem);*/ /*image un peu plus petite*/
+  object-fit: contain; /* conserve les proportions */
+  background-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 2rem; /* espace intérieur si tu veux que la couleur entoure l'image */
+
+  cursor: pointer;
+  position: fixed;
+  box-sizing: border-box;
+  transform-origin: 0 0; /* utile pour les calculs de zoom centré sur la souris */
+  touch-action: none; /* empêche le geste tactile natif lors du drag/zoom */
+
+  transform-origin: 50% 50%;
+  z-index: 2;
+
+  /* Pour une animation fluide */
+  transition: left 0.4s ease, top 0.4s ease;
+}
+
+.bouton-forme {
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 200px; /* <<< ajoute une taille fixe */
+  height: 200px;
+  /* transform: translateY(-50%); */
+  z-index: 3;
+}
+
+.bouton-texte {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.bouton-forme::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.5); /* invisible par défaut */
+  transition: box-shadow 0.3s ease;
+}
+
+.bouton-forme:hover {
+  transform: scale(1.05);
+}
+
+.bouton-forme:hover::before {
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.6); /* Halo lumineux */
+}
