@@ -56,24 +56,24 @@ Les illustrations ont été réalisées sur _Clip Studio Paint_, sans aucun anti
 
 « _Complétez cette partie en consultant la partie Planning de Travail._ »
 
-**Istallation et mise en espace :**
+**Installation et mise en espace :**
 Mon travail se concentrant sur l’interactivité, je mets en avant les différentes étapes de progression dans une vidéo montée en deux parties sur deux écrans (vidéo consultable dans la partie _Planning de Travail_).
 
 <p align="center">
-<img src="/img/mon installation (3).jpg" width="100%">
+<img src="/img/mon installation (3).jpg" width="40%">
 </p>
 
 Mon ordinateur personnel donne la version de service.
 
 <p align="center">
-<img src="/img/mon installation (2).jpg" width="100%">
+<img src="/img/mon installation (2).jpg" width="50%">
 </p>
 
 Sur le côté, j’ai placé mes références artistiques physiques.
 Sur le mur, mes croquis de préproduction.
 
 <p align="center">
-<img src="/img/mon installation (5).jpg" width="100%">
+<img src="/img/mon installation (5).jpg" width="50%">
 </p>
 
 **PRÉSENTATION ET ARGUMENTATION**
@@ -95,7 +95,7 @@ La planche met en scène une entreprise dont six personnages :
 Chacun est placé à l’une des extrémités du bâtiment et se rend au point situé à l’opposé du leur, en passant par trois des six zones possibles (escaliers, ascenseur, bureaux, labos, cantine, stockage).
 
   <p align="center">
-<img src="/img/carnet.jpg" width="100%">
+<img src="/img/carnet.jpg" width="60%">
 </p>
 
 ### Thématiques de Recherche
@@ -135,8 +135,8 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
   Le sens de lecture s’impose de lui-même par l'alignement des différentes séries de cases parfois mises en bande traditionnelle ou éparpillées pour laisser de la visibilité à d’autres informations plus schématisées.
   Son style graphique m’a notamment inspiré avec ses mélanges de ligne claire et de perspective axonométrique.
     <p align="center">
-   <img src="/img/Chris Ware (2).jpg" width="100%">
-   <img src="/img/Chris Ware (1).jpg" width="100%">
+   <img src="/img/Chris Ware (2).jpg" width="65%">
+   <img src="/img/Chris Ware (1).jpg" width="65%">
    </p>
 
   **SHIGA, Jason.** Vanille et Chocolat. Paris : Cambourakis, 2012.
@@ -144,12 +144,12 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
   La bande dessinée devient un jeu où pour reconnaître le sens de lecture, il ne faut plus identifier l'alignement des cases mais leur superposition.
   Le but de cet ouvrage n’est pas de permettre une lecture fluide mais de mettre au défi le lecteur qui souhaiterait découvrir tous les chemins possibles.
    <p align="center">
-   <img src="/img/Jason Shiga (1).jpg" width="48%">
-   <img src="/img/Jason Shiga (2).jpg" width="48%">
+   <img src="/img/Jason Shiga (1).jpg" width="40%">
+   <img src="/img/Jason Shiga (2).jpg" width="40%">
    </p>
    À noter qu’en 2018, une version numérique de cette BD est sortie sur la plateforme Steam sous le nom de Meanwhile: An Interactive Comic Book , outre l’absence de marque page la principale différence est que l’intrigue se décline en carré sur une seule et même page.
   <p align="center">
-   <img src="/img/Jason Shiga (1).jpeg" width="100%">
+   <img src="/img/Jason Shiga (1).jpeg" width="78%">
    </p>
    <u>Bande dessinée Physique</u> :
    **SANS-ARCIDET, Sébastien.** & **RAVEY, Michel.** _Pomme & Prudence_, 2016. https://www.bdnext.net/pomme-prudence/.
@@ -183,18 +183,18 @@ Adèle m’a présenté plusieurs éditions de l’Associations dont le troisiè
 </p>
 <p align="center">
 <img src="/img/référence (1).jpg" width="48%">
-<img src="/img/référence (2).jpg" width="48%">
+<img src="/img/référence (23).jpg" width="48%">
 </p>
 <p align="center">
-<img src="/img/OuBapo (5).jpg" width="10.6%">
-<img src="/img/OuBapo (3).jpg" width="10.6%">
-<img src="/img/OuBapo (4).jpg" width="10.6%">
-<img src="/img/OuBapo (2).jpg" width="10.6%">
-<img src="/img/OuBapo (6).jpg" width="10.6%">
-<img src="/img/OuBapo (1).jpg" width="10.6%">
+<img src="/img/OuBapo (5).jpg" width="15.6%">
+<img src="/img/OuBapo (3).jpg" width="15.6%">
+<img src="/img/OuBapo (4).jpg" width="15.6%">
+<img src="/img/OuBapo (2).jpg" width="15.6%">
+<img src="/img/OuBapo (6).jpg" width="15.6%">
+<img src="/img/OuBapo (1).jpg" width="15.6%">
 </p>
 <p align="center">
-<img src="/img/références.jpg" width="100%">
+<img src="/img/références.jpg" width="65%">
 </p>
 
 <u>• 28/11/2025</u> :
@@ -207,8 +207,8 @@ Voyant que ma démarche ne ferait que compliquer la chose, Alice est intervenue 
 À noter qu’Alice m’a été d’un grand soutien pour la compréhension de mon code et à mon introduction à GIT-hub.
 
 <u>• 05/11/2025</u> :
-◦ J’ai un peu aidé Alice à installer son accrochage.
-<img src="/img/installationAlice.jpg" width="100%">
+J’ai un peu aidé Alice à installer son accrochage.
+<img src="/img/installationAlice.jpg" width="60%">
 
 ### Journal de bord
 
@@ -227,7 +227,7 @@ Sous les conseils de mon enseignant je réalise une impression de ma maquette ai
 
 <p align="center">
 <img src="/mov/04-11-2025/20251104_151654_M.jpg" width="48%">
-<img src="/mov/04-11-2025/20251104_151726_M.jpg" width="48%">
+<img src="/mov/04-11-2025/20251104_151726_M.jpg" width="27%">
 </p>
 
 **<u>• 07/11/2025</u>**
@@ -366,21 +366,25 @@ https://developer.mozilla.org/fr/docs/Web/API/EventTarget/addEventListener
 **<u>• 01/12/2025</u>**
 
 10. **Expérimentation 1_P6**
-Pour finaliser ma page pour le rendu, je pense ajouter quelques animations, compléter le croquis de la planche de BD et éventuellement corriger quelques bugs.
-Je retourne sur la page web d’Expérimentation 1_P2_Site 1 du https://prismic.io/blog/css-hover-effects.
+
+Pour finaliser ma page pour le rendu, je pense ajouter quelques animations, compléter le croquis de la planche de BD et éventuellement corriger quelques bugs.  
+Je retourne sur la page web d’Expérimentation 1_P2_Site 1 du [blog Prismic](https://prismic.io/blog/css-hover-effects).
+
 <p align="center">
-  <video width="75%" autoplay loop muted>
+<video width="75%" autoplay loop muted controls playsinline>
   <source src="/mov/01-12-2025/expérimentation 1_P6.mp4" type="video/mp4">
-  </video>
-  </p>
-◦ <u>Définitions :</u>
-https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
-https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage
-https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Values/transform-function/translate3d
-https://developer.mozilla.org/fr/docs/Web/API/Window/requestAnimationFrame
+</video>
+</p>
+
+◦ <u>Définitions :</u>  
+[parseFloat](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/parseFloat)  
+[localStorage](https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage)  
+[translate3d](https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Values/transform-function/translate3d)  
+[requestAnimationFrame](https://developer.mozilla.org/fr/docs/Web/API/Window/requestAnimationFrame)
 
 11. **Expérimentation 1_P7**
-    À partir de cette étape, il ne me reste plus que de réaliser la planche complète de la BD et éventuellement de corriger les quelques bug qui peuvent apparaître lorsque l’on manipule le dossier de manière particulière.
+
+À partir de cette étape, il ne me reste plus que de réaliser la planche complète de la BD et éventuellement de corriger les quelques bugs qui peuvent apparaître lorsque l’on manipule le dossier de manière particulière.
 
   <p align="center">
 <video width="75%" autoplay loop muted>
