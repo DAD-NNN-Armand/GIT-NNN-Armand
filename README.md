@@ -22,7 +22,7 @@
 
 5. Générer des volumes 3D uniquement via du code et répartir des visuels sur leurs différentes faces.
 
-6. Parvenir à adapter le niveau de pixel de l’écran en fonction du zoom afin de ne pas surexploiter le module sur des pages trop grandes.
+6. Parvenir à adapter le niveau de pixels de l’écran en fonction du zoom afin de ne pas surexploiter le module sur des pages trop grandes.
 
 ### Compétences
 
@@ -82,7 +82,7 @@ Sur le mur, mes croquis de préproduction.
 
 # Projet 1
 
-### Sujet de Projet
+### Sujet de projet
 
 - **Titre du projet :** Bande dessinée numérique_Expérimentation 1
 - **Description du projet :**
@@ -98,14 +98,14 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
 <img src="/img/carnet.jpg" width="60%">
 </p>
 
-### Thématiques de Recherche
+### Thématiques de recherche
 
 - **Thématiques que vous souhaitez explorer :** La Bande dessinée numérique
 - **Pourquoi cette thématique m'intéresse-t-elle ? :**
-  ...Le numérique peut permettre de générer des formes au-delà du cadre de l’écran et modifier ces formes au dépend de leur donnés. L’« Édition » comme nous avons l’habitude de le voir ne dépend plus des mêmes contraintes physiques lorsqu’elle devient numérique. La bande dessinée est probablement le système narratif qui a pû le plus repenser à ses contraintes depuis les années 2000. Cependant les expérimentations ou les projets qui sont ressorti ses dernières années sont sous médiatisés. Si comme Chris Ware on considère que la bande dessinée est un « _langage narratif, ludique et intuitif impliquant le lecteur_ », imaginer une nouvelle manière de rendre une bande dessinée de façon numérique me semble intéressant. Il faut pouvoir repenser notre appréhension au livre et à la planche au sein de la page web pour innover. Il faut aussi pouvoir s’adapter à ces nouvelles contraintes, dont les nombreux ratios et tailles de supports de lecture pour créer une expérience qui reste, accessible, agréable et engageante pour le lecteur.
-  C’est à peu près pour toutes ses raisons que je souhaite me lancer dans cette thématique, qui me semble enrichissante, autant pour identifier de nouvelles références théoriques pour renforcer pratique du numérique.
+  ...Le numérique peut permettre de générer des formes au-delà du cadre de l’écran et modifier ces formes au dépend de leur données. L’« Édition » comme nous avons l’habitude de le voir ne dépend plus des mêmes contraintes physiques lorsqu’elle devient numérique. La bande dessinée est probablement le système narratif qui a pû le plus repenser à ses contraintes depuis les années 2000. Cependant les expérimentations ou les projets qui sont ressortis ces dernières années sont sous médiatisés. Si comme Chris Ware on considère que la bande dessinée est un « _langage narratif, ludique et intuitif impliquant le lecteur_ », imaginer une nouvelle manière de rendre une bande dessinée de façon numérique me semble intéressant. Il faut pouvoir repenser notre appréhension au livre et à la planche au sein de la page web pour innover. Il faut aussi pouvoir s’adapter à ces nouvelles contraintes, dont les nombreux ratios et tailles des supports de lecture pour créer une expérience qui reste, accessible, agréable et engageante pour le lecteur.
+  C’est pour toutes ces raisons que je souhaite me lancer dans cette thématique, qui me semble enrichissante, autant pour identifier de nouvelles références théoriques que pour renforcer pratique du numérique.
 
-## Outils et Techniques
+## Outils et techniques
 
 - **Mes outils :**
   • D’abord je réalise la maquette de ma planche sur Figma.
@@ -118,15 +118,15 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
 2. Maîtriser les fonctions et conditions JavaScript.
 3. Être capable d’utiliser efficacement GitHub.
 
-## Références Artistiques
+## Références artistiques
 
 - **Argumentaire expliquant la pertinence de votre projet (environ 150 mots) :**
   La Bande dessinée numérique est un secteur sous-médiatisé.
   La plupart des œuvres qui en ressortent sont des genres standard comme les scans de livres, pas toujours adapté aux dimensions ou au ratio des écrans, ou les populaires webtoon, à lecture exclusivement vertical.
-  En 2000, Scott McCloud dans Réinventer la bande dessinée, consacrait plusieurs chapitres à anticiper le potentiel de production, de diffusion et d’évolution qui adviendrait à la Bande dessinée sur les nouveaux media numériques.
-  Depuis cette période beaucoup d’artistes underground et de collectifs sont parvenus de façons très diverses à bouleverser notre appréhension à la bande dessinée sans être reconnus du grand public.
+  En 2000, Scott McCloud dans Réinventer la bande dessinée, consacrait plusieurs chapitres à anticiper le potentiel de production, de diffusion et d’évolution qui adviendrait à la bande dessinée sur les nouveaux media numériques.
+  Depuis cette période, beaucoup d’artistes underground et de collectifs sont parvenus de façons très diverses à bouleverser notre appréhension de la bande dessinée sans être reconnus du grand public.
   Ce projet me donne l’occasion d’aller à la rencontre de ces artistes qui vont au-delà des clichés aujourd’hui répandus.
-  Pour exploiter en parti les clichés de la bande dessinée j’ai décidé de m’imposer comme contrainte de réaliser ma mise en scènes avec des cadres basés sur les ratios les plus répandus de la bande dessinée
+  Pour exploiter en partie les clichés de la bande dessinée, j’ai décidé de m’imposer comme contrainte de réaliser ma mise en scène avec des cadres basés sur les ratios les plus répandus de la bande dessinée
 
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
   <u>Bande dessinée Physique</u> :
@@ -153,7 +153,7 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
    </p>
    <u>Bande dessinée Physique</u> :
    **SANS-ARCIDET, Sébastien.** & **RAVEY, Michel.** _Pomme & Prudence_, 2016. https://www.bdnext.net/pomme-prudence/.
-   ◦ Contrairement à ce qu’on a l’habitude de retrouver dans le format webtoon, il n’est pas facile de suivre le récit si on vat lentement. Les petites animations et les GIF obligent le lecteur à contempler l’image pour comprendre la poésie du récit.
+   ◦ Contrairement à ce qu’on a l’habitude de retrouver dans le format webtoon, il n’est pas facile de suivre le récit si on va lentement. Les petites animations et les GIF obligent le lecteur à contempler l’image pour comprendre la poésie du récit.
    De plus, là où le webtoon sur PC n’englobe pas la totalité de l’écran, pour plus de lisibilité, les créateurs ont eu l'idée d’utiliser l’espace à son maximum.
    Les paysages sont plus grands, les petites cases placées sur les côtés, au centre voir étirées d'un point à l'autre permettent d’articuler la narration via un jeu de regard avec le lecteur.
    <p align="center">
@@ -161,7 +161,7 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
    <img src="/img/PommeEtPrudence (2).png" width="48%">
    </p>
    **Stillmerlin.** _A duck has an adventure_, 06 avr. 2014, https://www.kongregate.com/games/Stillmerlin/a-duck-has-an-adventure.
-   ◦ Une BD à choix multiple qui profite pleinement de la dimension "infinie" de la page numérique pour impliquer le lecteur dans ce récit à choix multiple.
+   ◦ Une BD à choix multiple qui profite pleinement de la dimension "infinie" de la page numérique pour impliquer le lecteur dans ce récit à choix multiples.
    <p align="center">
    <img src="/img/Stillmerlin, A duck has an adventure_1.jpg" width="48%">
    <img src="/img/Stillmerlin, A duck has an adventure_2.jpg" width="48%">
@@ -169,7 +169,7 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
 
 ## Actions
 
-### Contribution à un Projet d'Autre Étudiant
+### Contribution à un projet d'autre étudiant
 
 // Comment j'ai tenté de contribuer au projet d'un autre étudiant :
 
@@ -198,7 +198,7 @@ Adèle m’a présenté plusieurs éditions de l’Associations dont le troisiè
 </p>
 
 <u>• 28/11/2025</u> :
-Je suis allé à la rencontre de plusieurs de mes camarades et tente de donner quelques micro-conseils.
+Je suis allé à la rencontre de plusieurs de mes camarades et tenté de donner quelques micro-conseils.
 
 ◦ Pour Ahafiia, ne comprenant pas vraiment le code obtenu sur chat GPT, je lui propose de modifier les nombres pour comprendre les fonctions.
 
@@ -223,7 +223,7 @@ Je réalise la première maquette de ma BD sur figma qui servira de base à ma c
 </p>
 
 **<u>• 04/11/2025</u>**
-Sous les conseils de mon enseignant je réalise une impression de ma maquette ainsi que des découpes de mes ratios pour vérifier comment je souhaiterais naviger dans ma page.
+Sur les conseils de mon enseignant, je réalise une impression de ma maquette ainsi que des découpes de mes ratios pour vérifier comment je souhaiterais naviguer dans ma page.
 
 <p align="center">
 <img src="/mov/04-11-2025/20251104_151654_M.jpg" width="48%">
@@ -274,8 +274,8 @@ Cette base me semble plus convaincante, même si mon enseignant y trouvera beauc
 </p>
 
 5. **Expérimentation 1_P2 + Tuto 2**
-Après avoir réalisé un élément déplaçable auquel j’ai associé mon image j’ai obtenu, je cherche via chat GPT à contrôler la taille de mon image par rapport à ma "boîte" dont la taille s’étend aux bords de mon écran.
-Je veux que mon image soit un peu plus aéré mais que sa boîte soit plus grande car elle pourrait être la base sur lequel j’adapterais les limites de ma page web.
+Après avoir réalisé un élément déplaçable auquel j’ai associé mon image , je cherche via chat GPT à contrôler la taille de mon image par rapport à ma "boîte" dont la taille s’étend aux bords de mon écran.
+Je veux que mon image soit un peu plus aérée mais que sa boîte soit plus grande car elle pourrait être la base sur laquelle j’adapterais les limites de ma page web.
 <span style="color:red">- Comme première proposition, il me fait créer une nouvelle div dans HTML qui servira de boîte pour contenir l’image.
 Cependant modifier le nom du javascript ne suffit pas à adapter mes fonctions.</span>
 <span style="color:red">- Comme la première solution ne m’a pas convenu, je tente une autre méthode, en commençant par agrandir mon padding jusqu’aux bords de l’écran.</span>
@@ -290,7 +290,7 @@ Cependant modifier le nom du javascript ne suffit pas à adapter mes fonctions.<
 6. **Expérimentation 1_P2 + Tuto 2_V2**
 <u>Mon objectif</u> :
 Placer une condition pour limiter le déplacement de mon image en fonction de sa position dans la toile.
-Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un objet contenant une image nommée avec la class "card". Au sein de mon JS j'ai créé une fonction qui permet à mon image de se déplacer à l'aide de la souris. Actuellement mon image peut déborder de mon body. J'aimerais placer une condition "IF qui permettrait de déplacer l'image tant quel ne dépasse pas la limite du body de 1500px. Pour se faire j'ai pensé à créer une condition If(startx + "1000px" < "1500px").
+Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un objet contenant une image nommée avec la class "card". Au sein de mon JS, j'ai créé une fonction qui permet à mon image de se déplacer à l'aide de la souris. Actuellement, mon image peut déborder de mon body. J'aimerais placer une condition "IF qui permettrait de déplacer l'image tant qu'elle ne dépasse pas la limite du body de 1500px. Pour se faire, j'ai pensé à créer une condition If(startx + "1000px" < "1500px").
    <p align="center">
 <video width="75%" autoplay loop muted>
 <source src="/mov/24-11-2025/Expérimentation 1_P2 + Tuto 2_V2.mp4" type="video/mp4">
@@ -303,7 +303,7 @@ Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un 
    <u>Mon objectif</u> :
    Finir de limiter le déplacement de mon image et parvenir à agrandir l’image à l’aide de la molette de la souris.
 
-   Je suis parvenue à limiter le déplacement de l’image dans l’espace.
+   Je suis parvenu à limiter le déplacement de l’image dans l’espace.
    Je dois en retenir qu’il ne faut pas placer plusieurs conditions "if" pour aboutir à un même résultat.
    Pour éviter que cette erreur annule la fonction "if", il faut placer les deux conditions dans une seule avec « && » (et) ou « || » (ou)
     <p align="center">
@@ -321,7 +321,7 @@ Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un 
 **<u>• 25/11/2025</u>**
 
 8. **Expérimentation 1_P4**
-   Je suis parvenue à créer une fonction zoom limité entre 1 et 10 s’activant à l’aide de la molette de la souris. Il faut maintenant que j’associe cette fonction à la taille de mon image.
+   Je suis parvenu à créer une fonction zoom limité entre 1 et 10 s’activant à l’aide de la molette de la souris. Il faut maintenant que j’associe cette fonction à la taille de mon image.
    ◦ <u>Définitions :</u>
    https://developer.mozilla.org/fr/docs/Web/API/Element/getBoundingClientRect
    https://developer.mozilla.org/fr/docs/Web/API/Event/preventDefault
@@ -336,7 +336,7 @@ Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un 
 
 9. **Expérimentation 1_P5**
    <u>Mon objectif</u> :
-   Après avoir réglé le problème du zoom, il faut que je mets une nouvelle contrainte qui me permette de bloquer les bords de l’image lorsqu’il touche les bords.
+   Après avoir réglé le problème du zoom, il faut que je mette une nouvelle contrainte qui me permette de bloquer les bords de l’image lorsqu’elle touche les bords.
 
    J’ai fait une première demande à chat GPT :
    « _Dans mon code, dans la partie javascript, j'ai une fonction "mouseMove(e)" dans laquelle j'ai mis un paramètre "if... else..." qui empêche .card de déborder tant que son width et son height n'est pas supérieur au body. J'aimerais ajouter à ma condition une fonction qui lorsque "card.getBoundingClientRect().width > document.body.getBoundingClientRect().width || card.getBoundingClientRect().height > document.body.getBoundingClientRect().height", les contours de .card ne puissent pas entrer dans le body._ »
@@ -384,7 +384,7 @@ Je retourne sur la page web d’Expérimentation 1_P2_Site 1 du [blog Prismic](h
 
 11. **Expérimentation 1_P7**
 
-À partir de cette étape, il ne me reste plus que de réaliser la planche complète de la BD et éventuellement de corriger les quelques bugs qui peuvent apparaître lorsque l’on manipule le dossier de manière particulière.
+À partir de cette étape, il ne me reste plus qu'à réaliser la planche complète de la BD et éventuellement corriger les quelques bugs qui peuvent apparaître lorsque l’on manipule le dossier de manière particulière.
 
   <p align="center">
 <video width="75%" autoplay loop muted>
