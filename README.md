@@ -43,7 +43,8 @@ J'ai choisi de réaliser mes cases en me basant sur les ratios de bande dessiné
 ◦ Format Comics (170 × 260 mm ≈ 2/3)  
 ◦ Format graphic novel (170 × 240 mm ≈ 5/7)  
 ◦ Format webtoon (12000 × 211,666 ≈ 57/1)
-<img src="/img/Capture d’écran.png.jpg" width="100%">
+
+<img src="/img/Capture d’écran.png" width="50%">
 
 J'ai fait usage de repères en "nombre d'or" pour mettre en place les proportions de ma mise en page.
 
@@ -78,7 +79,7 @@ Sur le mur, mes croquis de préproduction.
 
 **PRÉSENTATION ET ARGUMENTATION**
 
-## ## PROJETS
+## PROJETS
 
 # Projet 1
 
@@ -108,6 +109,7 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
 ## Outils et techniques
 
 - **Mes outils :**
+
   • D’abord je réalise la maquette de ma planche sur Figma.
   • Pour les illustrations, je dessine sur _Clip Studio Paint_.
   • Enfin je mets en page en combinant du HTML et du CSS avec un programme javascript.
@@ -129,7 +131,9 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
   Pour exploiter en partie les clichés de la bande dessinée, j’ai décidé de m’imposer comme contrainte de réaliser ma mise en scène avec des cadres basés sur les ratios les plus répandus de la bande dessinée
 
 - **Références artistiques qui inspirent votre travail (livres, artistes, œuvres, etc.) :**
+
   <u>Bande dessinée Physique</u> :
+  
   **WARE, Chris.** _Building Stories_. New York : Pantheon Books, 2012.
   ◦ Dans cette collection Chris Ware d’architecture, dans la construction de la planche, dans la construction du bâtiment et dans la construction personnelle des gens.
   Le sens de lecture s’impose de lui-même par l'alignement des différentes séries de cases parfois mises en bande traditionnelle ou éparpillées pour laisser de la visibilité à d’autres informations plus schématisées.
@@ -140,6 +144,7 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
    </p>
 
   **SHIGA, Jason.** Vanille et Chocolat. Paris : Cambourakis, 2012.
+  
   ◦ La lecture des cases est dictée par des tracés et des marque-pages, le concept de voyage dans le temps justifie encore plus les retours en arrière.
   La bande dessinée devient un jeu où pour reconnaître le sens de lecture, il ne faut plus identifier l'alignement des cases mais leur superposition.
   Le but de cet ouvrage n’est pas de permettre une lecture fluide mais de mettre au défi le lecteur qui souhaiterait découvrir tous les chemins possibles.
@@ -147,12 +152,15 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
    <img src="/img/Jason Shiga (1).jpg" width="40%">
    <img src="/img/Jason Shiga (2).jpg" width="40%">
    </p>
-   À noter qu’en 2018, une version numérique de cette BD est sortie sur la plateforme Steam sous le nom de Meanwhile: An Interactive Comic Book , outre l’absence de marque page la principale différence est que l’intrigue se décline en carré sur une seule et même page.
+   ####À noter qu’en 2018, une version numérique de cette BD est sortie sur la plateforme Steam sous le nom de Meanwhile: An Interactive Comic Book , outre l’absence de marque page la principale différence est que l’intrigue se décline en carré sur une seule et même page.####
   <p align="center">
    <img src="/img/Jason Shiga (1).jpeg" width="78%">
    </p>
+   
    <u>Bande dessinée Physique</u> :
+  
    **SANS-ARCIDET, Sébastien.** & **RAVEY, Michel.** _Pomme & Prudence_, 2016. https://www.bdnext.net/pomme-prudence/.
+   
    ◦ Contrairement à ce qu’on a l’habitude de retrouver dans le format webtoon, il n’est pas facile de suivre le récit si on va lentement. Les petites animations et les GIF obligent le lecteur à contempler l’image pour comprendre la poésie du récit.
    De plus, là où le webtoon sur PC n’englobe pas la totalité de l’écran, pour plus de lisibilité, les créateurs ont eu l'idée d’utiliser l’espace à son maximum.
    Les paysages sont plus grands, les petites cases placées sur les côtés, au centre voir étirées d'un point à l'autre permettent d’articuler la narration via un jeu de regard avec le lecteur.
@@ -160,7 +168,9 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
    <img src="/img/PommeEtPrudence (1).png" width="48%">
    <img src="/img/PommeEtPrudence (2).png" width="48%">
    </p>
+   
    **Stillmerlin.** _A duck has an adventure_, 06 avr. 2014, https://www.kongregate.com/games/Stillmerlin/a-duck-has-an-adventure.
+   
    ◦ Une BD à choix multiple qui profite pleinement de la dimension "infinie" de la page numérique pour impliquer le lecteur dans ce récit à choix multiples.
    <p align="center">
    <img src="/img/Stillmerlin, A duck has an adventure_1.jpg" width="48%">
@@ -174,16 +184,17 @@ Chacun est placé à l’une des extrémités du bâtiment et se rend au point s
 // Comment j'ai tenté de contribuer au projet d'un autre étudiant :
 
 <u>• 24/11/2025</u> :
+
 ◦ J’ai échangé des références avec Adèle.
 je lui ai présenté mon édition du building Stories de Chris Ware ainsi qu’une référence que je trouverai durant le workshop, "Immeuble" de Vidu et BatRaf.
-Adèle m’a présenté plusieurs éditions de l’Associations dont le troisième opus des Vacances de l’OuBapo.
+Adèle m’a présenté plusieurs éditions de l’_Association_ dont le troisième opus des Vacances de l’OuBapo.
 
 <p align="center">
-<img src="/img/référence (2).jpg" width="16.6%">
+<img src="/img/référence (2).jpg" width="24%">
 </p>
 <p align="center">
 <img src="/img/référence (1).jpg" width="48%">
-<img src="/img/référence (23).jpg" width="48%">
+<img src="/img/référence (3).jpg" width="48%">
 </p>
 <p align="center">
 <img src="/img/OuBapo (5).jpg" width="15.6%">
@@ -198,6 +209,7 @@ Adèle m’a présenté plusieurs éditions de l’Associations dont le troisiè
 </p>
 
 <u>• 28/11/2025</u> :
+
 Je suis allé à la rencontre de plusieurs de mes camarades et tenté de donner quelques micro-conseils.
 
 ◦ Pour Ahafiia, ne comprenant pas vraiment le code obtenu sur chat GPT, je lui propose de modifier les nombres pour comprendre les fonctions.
@@ -207,15 +219,19 @@ Voyant que ma démarche ne ferait que compliquer la chose, Alice est intervenue 
 À noter qu’Alice m’a été d’un grand soutien pour la compréhension de mon code et à mon introduction à GIT-hub.
 
 <u>• 05/11/2025</u> :
+
 J’ai un peu aidé Alice à installer son accrochage.
+
 <img src="/img/installationAlice.jpg" width="60%">
 
 ### Journal de bord
 
 - Étapes clés pour votre projet :
 
-Consultez le dossier, notamment les "Cours de javascript"
+Pour plus de détails, consultez le dossier, notamment les "Cours de javascript"
+
 **<u>• 03/11/2025</u>**
+
 Je réalise la première maquette de ma BD sur figma qui servira de base à ma conception.
 
 <p align="center">
@@ -223,6 +239,7 @@ Je réalise la première maquette de ma BD sur figma qui servira de base à ma c
 </p>
 
 **<u>• 04/11/2025</u>**
+
 Sur les conseils de mon enseignant, je réalise une impression de ma maquette ainsi que des découpes de mes ratios pour vérifier comment je souhaiterais naviguer dans ma page.
 
 <p align="center">
@@ -233,8 +250,8 @@ Sur les conseils de mon enseignant, je réalise une impression de ma maquette ai
 **<u>• 07/11/2025</u>**
 
 1. **expérimentation 1_P2 + GPT**
+   
    <span style="color:red">
-
 **J’essaye de trouver une base via chat GPT, mais ce premier résultat ne ressemble pas assez à ce que j’attends, je préfère donc rechercher des bases via des tutos.**
 </span>
 
@@ -245,6 +262,7 @@ Sur les conseils de mon enseignant, je réalise une impression de ma maquette ai
 </p>
 
 2. **Expérimentation 1 \_Tuto 1**
+   
    _Coder un Slideshow qui fonctionne à la souris, École du Web_, https://www.youtube.com/watch?v=4rqRTLscLNY.
    <span style="color:red">
 
@@ -259,11 +277,13 @@ Sur les conseils de mon enseignant, je réalise une impression de ma maquette ai
 </p>
 
 3. **Expérimentation 1_P2_Site 1**
+   
    _CSS Hover Effects: 40 Engaging Animations To Try_, https://prismic.io/blog/css-hover-effects.
    <span style="color:red">
    **Ce site ne m’apprend pas à manipuler l’objet mais me servira plus tard (Voir « Expérimentation 1_P6 »)**
    .</span>
-4. **Expérimentation 1_Tuto 2**
+  
+5. **Expérimentation 1_Tuto 2**
 Appwrite, Building draggable elements with Javascript & Sticky Notes app, https://www.youtube.com/watch?v=_NFdUC2W0W4.
 Cette base me semble plus convaincante, même si mon enseignant y trouvera beaucoup d'éléments superflus que je n'ai pas su identifier.
    <p align="center">
@@ -296,11 +316,14 @@ Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un 
 <source src="/mov/24-11-2025/Expérimentation 1_P2 + Tuto 2_V2.mp4" type="video/mp4">
 </video>
 </p>
-◦ <u>Définitions :</u>
-   https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/JSON
+
+◦ <u>Définitions :</u>  
+ [JSON](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/JSON)  
 
 7. **Expérimentation 1_P3**
+
    <u>Mon objectif</u> :
+   
    Finir de limiter le déplacement de mon image et parvenir à agrandir l’image à l’aide de la molette de la souris.
 
    Je suis parvenu à limiter le déplacement de l’image dans l’espace.
@@ -314,17 +337,19 @@ Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un 
    <source src="/mov/24-11-2025/expérimentation 1_P3_fonction molette.mp4" type="video/mp4">
    </video>
    </p>
-      ◦ <u>Définitions :</u>
-      https://developer.mozilla.org/fr/docs/Web/API/WheelEvent
-      https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/round
+      ◦ <u>Définitions :</u>     
+[WheelEvent](https://developer.mozilla.org/fr/docs/Web/API/WheelEvent)  
+[Math.round](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Math/round)  
 
 **<u>• 25/11/2025</u>**
 
 8. **Expérimentation 1_P4**
+
    Je suis parvenu à créer une fonction zoom limité entre 1 et 10 s’activant à l’aide de la molette de la souris. Il faut maintenant que j’associe cette fonction à la taille de mon image.
-   ◦ <u>Définitions :</u>
-   https://developer.mozilla.org/fr/docs/Web/API/Element/getBoundingClientRect
-   https://developer.mozilla.org/fr/docs/Web/API/Event/preventDefault
+   
+   ◦ <u>Définitions :</u>    
+   [getBoundingClientRect](https://developer.mozilla.org/fr/docs/Web/API/Element/getBoundingClientRect)  
+   [Event.preventDefault()](https://developer.mozilla.org/fr/docs/Web/API/Event/preventDefault)  
 
  <p align="center">
 <video width="75%" autoplay loop muted>
@@ -335,7 +360,9 @@ Dans mon code, j'ai un body dont j'ai limité la taille à "1500px" ainsi qu'un 
 **<u>• 28/11/2025</u>**
 
 9. **Expérimentation 1_P5**
+
    <u>Mon objectif</u> :
+   
    Après avoir réglé le problème du zoom, il faut que je mette une nouvelle contrainte qui me permette de bloquer les bords de l’image lorsqu’elle touche les bords.
 
    J’ai fait une première demande à chat GPT :
@@ -351,11 +378,11 @@ Ayant mal placé mon consol.log, mon enseignant nous fait un cours général de 
 
 <span style="color:red">Mon enseignant n’ayant pas réussi non plus à mettre en marche en inversant les conditions, nous nous mettons d’accord pour que j’implante un bouton qui recentrera mon image si elle déborde de trop.</span>
 
-◦ <u>Définitions :</u>
-https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/typeof
-https://developer.mozilla.org/fr/docs/Web/API/Document/querySelector
-https://developer.mozilla.org/fr/docs/Web/API/Element/closest
-https://developer.mozilla.org/fr/docs/Web/API/EventTarget/addEventListener
+◦ <u>Définitions :</u>  
+[typeof](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/typeof)  
+[querySelector](https://developer.mozilla.org/fr/docs/Web/API/Document/querySelector)  
+[closest](https://developer.mozilla.org/fr/docs/Web/API/Element/closest)  
+[addEventListener](https://developer.mozilla.org/fr/docs/Web/API/EventTarget/addEventListener)  
 
  <p align="center">
 <video width="75%" autoplay loop muted>
@@ -393,9 +420,12 @@ Je retourne sur la page web d’Expérimentation 1_P2_Site 1 du [blog Prismic](h
 </p>
 
 **<u>• 02/12/2025</u>**
+
 <u>Mon objectif</u> :
 Terminer les décors de mes cases pour avoir une planche à peu près complète pour le rendu.
+
 **<u>• 04/12/2025</u>**
+
 **Résultat rendu pour l'instalaltion et la présentation orale du 5 Décembre :**
 
   <p align="center">
